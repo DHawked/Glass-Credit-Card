@@ -44,7 +44,7 @@ body::before {
     z-index: 1;
 }
 
-.name{
+.name {
     color: white;
     font-size: 28px;
     font-family: monospace;
